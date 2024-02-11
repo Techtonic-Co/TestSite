@@ -1,3 +1,2 @@
-Password = "AHJKGAFGJHGSUYTSDAHJGF"
 
-print(Password)
+print("Fixed")
