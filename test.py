@@ -1,0 +1,3 @@
+Password = "AHJKGAFGJHGSUYTSDAHJGF"
+
+print(Password)
